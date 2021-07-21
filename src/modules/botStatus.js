@@ -41,7 +41,7 @@ async function start(client) {
     const apikey = apiKeyHandler.get()
 
     let databot1 = await fetchData('https://api.hypixel.net/status?key=' + apikey + "&uuid=" + process.env['BOT1'])
-    let databot2 = await fetchData('https://api.hypixel.net/status?key=' + apikey + "&uuid=" + process.env['BOT1'])
+    let databot2 = await fetchData('https://api.hypixel.net/status?key=' + apikey + "&uuid=" + process.env['BOT2'])
     let now = new Date().getTime()
     let botuptime = humanizeTime(now - uptime)
     let statusresponse = databot2.status
@@ -90,7 +90,7 @@ async function start(client) {
       dataonline1 = ":yellow_circle:"
     }
 
-    if (dataonline2 === true && datagameType2 === "MAIN" && datamode2 === "LOBBY") {
+    if (dataonline2 === true) {
       if (datagameType2 === "MAIN" && datamode2 === "LOBBY") {
         dataonline2 = ":green_circle:"
         onlinewith = "bot"

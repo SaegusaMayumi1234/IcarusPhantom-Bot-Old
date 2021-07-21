@@ -26,4 +26,3 @@ for (const file of eventFiles) {
 keepAlive();
 
 client.login(process.env['DISCORD_TOKEN']);
-
