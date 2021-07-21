@@ -1,4 +1,4 @@
-const keepAlive = require('./server');
+const keepAlive = require('./src/modules/server');
 const fs = require('fs');
 const Discord = require('discord.js')
 const client = Discord.Client()
