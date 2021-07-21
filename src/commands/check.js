@@ -1,9 +1,11 @@
 const fetchData = require('../utils/fetchData')
+const apiKeyHandler = require("../modules/apiKeyHandler")
 
 module.exports = {
   name: 'check',
   description: 'checking someone status for guild apply',
-  execute(message, args, client) {
+  async execute(message, args, client) {
+    let apikey = apiKeyHandler.get()
     let username = args[0]
     let uuid = avgskills = slayers = catacombs = weight = inGuild = scammer = online = ready = "Loading..."
     let header = `Loading data for ${username}`
@@ -84,7 +86,7 @@ module.exports = {
       scammer = "unknown"
     }
     editEmbed()
-    let onlineData = await fetchData(process.env['URL'] + apikey + "&uuid=" + uuid) 
+    let onlineData = await fetchData('https://api.hypixel.net/status?key=' + apikey + "&uuid=" + uuid) 
     if (onlineData.status == 200) {
       onlineData.data.session.online ? online = ":green_circle:" : online = ":red_circle:"
     } else {

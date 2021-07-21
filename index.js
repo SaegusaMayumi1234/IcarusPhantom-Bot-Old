@@ -1,10 +1,10 @@
 const keepAlive = require('./src/modules/server');
 const fs = require('fs');
 const Discord = require('discord.js')
-const client = Discord.Client()
+const client = new Discord.Client()
 
 client.prefix = 'g>';
-client.commands = new Discord.collection()
+client.commands = new Discord.Collection()
 
 const commandFiles = fs.readdirSync('./src/commands').filter(file => file.endsWith('.js'));
 const eventFiles = fs.readdirSync('./src/events').filter(file => file.endsWith('.js'));
@@ -26,3 +26,4 @@ for (const file of eventFiles) {
 keepAlive();
 
 client.login(process.env['DISCORD_TOKEN']);
+
