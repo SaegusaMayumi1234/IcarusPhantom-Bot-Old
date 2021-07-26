@@ -3,8 +3,7 @@ const app = express();
 const hypixelStatus = require('./hypixelStatus')
 const apiKeyHandler = require('./apiKeyHandler')
 const fragbotHandler = require('./fragbotHandler')
-
-//const check 
+const eventTimer = require('./hypixelEventTimer')
 
 app.all('/', (req, res)=>{
   res.status(200).json({
@@ -39,7 +38,6 @@ app.get('/api/:id/hypixelstatus.json', async function (req, res, next) {
     })
 })
 
-
 app.get('/api/:id/apikey.json', async function (req, res) {
   let data = await apiKeyHandler.get()
   res.status(200).json({
@@ -48,8 +46,18 @@ app.get('/api/:id/apikey.json', async function (req, res) {
   })
 })
 
+app.get('/api/:id/eventtimer.json', async function (req, res) {
+  let data = await eventTimer.get()
+  res.status(200).json({
+    status: 200,
+    eventTimer: data
+  })
+})
+
 function keepAlive(){
-  app.listen(3000, ()=>{console.log("Server is Ready!")});
+  app.listen(3000, () => {
+    console.log("Server is Ready!")
+  });
 }
 
 module.exports = keepAlive;

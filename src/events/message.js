@@ -6,8 +6,8 @@ const db = new Database()
 module.exports = {
 	name: 'message',
 	execute(message, client) {
-    if (message.content.startsWith(">>> Your new API key is ")  && msg.channel.id == process.env['MESSAGECHANNEL']) {
-      let parts = msg.content.split(' ')
+    if (message.content.startsWith(">>> Your new API key is ")  && message.channel.id == process.env['MESSAGECHANNEL']) {
+      let parts = message.content.split(' ')
       let apikey = parts[parts.length - 1]
       apiKeyHandler.save(apikey)
 
