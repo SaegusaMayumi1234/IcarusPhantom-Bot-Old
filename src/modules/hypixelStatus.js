@@ -16,6 +16,11 @@ async function start(client) {
   }, 10000)
 }
 
+async function test() {
+  const newData = await parser.parseURL('https://status.hypixel.net/history.rss')
+  return newData
+}
+
 function merge(oldData, newData, client) {
   if (oldData.items[0].content == newData.items[0].content && oldData.items[0].link == newData.items[0].link) return;
   const data1 = oldData.items[0]
@@ -54,3 +59,4 @@ function merge(oldData, newData, client) {
 }
 
 exports.start = start;
+exports.test = test;
