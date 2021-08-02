@@ -4,6 +4,7 @@ const hypixelStatus = require('./hypixelStatus')
 const apiKeyHandler = require('./apiKeyHandler')
 const fragbotHandler = require('./fragbotHandler')
 const eventTimer = require('./hypixelEventTimer')
+const bzahAPIHandler = require('./bzahAPIHandler')
 
 app.all('/', (req, res)=>{
   res.status(200).json({
@@ -11,18 +12,7 @@ app.all('/', (req, res)=>{
   })
 })
 
-app.param('id', function (req, res, next, value) {
-  if (value == 'ca7c8e9b93094c82b15a3c51e8eaeba6') {
-    next()
-  } else {
-    res.status(403).json({
-      status: 403,
-      error: "Your Request is forbidden"
-    })
-  }
-})
-
-app.get('/api/:id/fragbot.json', async function (req, res, next) {
+app.get('/api/ca7c8e9b93094c82b15a3c51e8eaeba6/fragbot.json', async function (req, res) {
   let fragbotData = await fragbotHandler.getAPI()
   res.status(200).json({
     status: 200,
@@ -30,7 +20,7 @@ app.get('/api/:id/fragbot.json', async function (req, res, next) {
   })
 })
 
-app.get('/api/:id/hypixelstatus.json', async function (req, res, next) {
+app.get('/api/ca7c8e9b93094c82b15a3c51e8eaeba6/hypixelstatus.json', async function (req, res) {
     let data = await hypixelStatus.test()
     res.status(200).json({
       status: 200,
@@ -38,7 +28,7 @@ app.get('/api/:id/hypixelstatus.json', async function (req, res, next) {
     })
 })
 
-app.get('/api/:id/apikey.json', async function (req, res) {
+app.get('/api/ca7c8e9b93094c82b15a3c51e8eaeba6/apikey.json', async function (req, res) {
   let data = await apiKeyHandler.get()
   res.status(200).json({
     status: 200,
@@ -46,11 +36,43 @@ app.get('/api/:id/apikey.json', async function (req, res) {
   })
 })
 
-app.get('/api/:id/eventtimer.json', async function (req, res) {
+app.get('/api/ca7c8e9b93094c82b15a3c51e8eaeba6/eventtimer.json', async function (req, res) {
   let data = await eventTimer.get()
   res.status(200).json({
     status: 200,
     eventTimer: data
+  })
+})
+
+app.get('/api/ca7c8e9b93094c82b15a3c51e8eaeba6/lbin.json', async function (req, res) {
+  let data = await bzahAPIHandler.get("lbin")
+  res.status(200).json({
+    status: 200,
+    data: data
+  })
+})
+
+app.get('/api/ca7c8e9b93094c82b15a3c51e8eaeba6/lbin1day.json', async function (req, res) {
+  let data = await bzahAPIHandler.get("lbin1day")
+  res.status(200).json({
+    status: 200,
+    data: data
+  })
+})
+
+app.get('/api/ca7c8e9b93094c82b15a3c51e8eaeba6/shiiyubz.json', async function (req, res) {
+  let data = await bzahAPIHandler.get("shiiyubz")
+  res.status(200).json({
+    status: 200,
+    data: data
+  })
+})
+
+app.get('/api/ca7c8e9b93094c82b15a3c51e8eaeba6/hypixelbz.json', async function (req, res) {
+  let data = await bzahAPIHandler.get("hypixelbz")
+  res.status(200).json({
+    status: 200,
+    data: data
   })
 })
 

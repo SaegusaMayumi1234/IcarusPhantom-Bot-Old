@@ -1,7 +1,4 @@
-const Database = require("@replit/database")
-
-const db = new Database()
-
+const db = require('./DatabaseManager')
 var apikey = "none"
 
 db.get("apikey").then(value => {
@@ -14,7 +11,7 @@ db.get("apikey").then(value => {
 })
 
 function save(data) {
-  db.set("apikey", data).then(() => {});
+  db.set("apikey", data)
   apikey = data
 }
 

@@ -1,7 +1,5 @@
 const fetchData = require('../utils/fetchData')
-const Database = require("@replit/database")
-
-const db = new Database()
+const db = require('./DatabaseManager')
 
 var eventTimer = {
   "magma": 0,
@@ -17,7 +15,6 @@ var eventTimer = {
 }
 
 db.get("eventTimer").then(value => {
-  console.log(value)
   if (value === null) {
     db.set("eventTimer", eventTimer)
   } else {

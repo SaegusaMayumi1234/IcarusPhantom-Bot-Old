@@ -1,12 +1,9 @@
-const Database = require("@replit/database")
 const apiKeyHandler = require("../modules/apiKeyHandler")
-
-const db = new Database()
 
 module.exports = {
 	name: 'message',
 	execute(message, client) {
-    if (message.content.startsWith(">>> Your new API key is ")  && message.channel.id == process.env['MESSAGECHANNEL']) {
+    if (message.content.startsWith(">>> Your new API key is ")  && message.channel.id == "818165593692831754") {
       let parts = message.content.split(' ')
       let apikey = parts[parts.length - 1]
       apiKeyHandler.save(apikey)

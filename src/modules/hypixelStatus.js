@@ -1,14 +1,12 @@
-const Database = require("@replit/database");
+const db = require('./DatabaseManager')
 const Parser = require('rss-parser');
 
 const parser = new Parser();
-const db = new Database();
 
 async function start(client) {
   const newData = await parser.parseURL('https://status.hypixel.net/history.rss')
   db.get("hypixelstatus").then(value => {
     let oldData = value
-    db.set("hypixelstatus", newData).then(() => {});
     merge(oldData, newData, client)
   });
   setTimeout(() => {
@@ -23,6 +21,7 @@ async function test() {
 
 function merge(oldData, newData, client) {
   if (oldData.items[0].content == newData.items[0].content && oldData.items[0].link == newData.items[0].link) return;
+  db.set("hypixelstatus", newData).then(() => {});
   const data1 = oldData.items[0]
   const data2 = newData.items[0]
   const parts1 = data1.content.replace("\n", "").split("</p>").reverse()

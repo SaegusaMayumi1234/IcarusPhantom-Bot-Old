@@ -1,8 +1,6 @@
-const Database = require("@replit/database")
 const fetchData = require('../utils/fetchData')
 const apiKeyHandler = require('./apiKeyHandler')
-
-const db = new Database()
+const db = require('./DatabaseManager')
 
 var fragbot = {
   "830487248507633715": "none",
@@ -12,7 +10,6 @@ var fragbot = {
 }
 
 db.get("fragbot").then(value => {
-  console.log(value)
   if (value === null) {
     db.set("fragbot", fragbot)
   } else {

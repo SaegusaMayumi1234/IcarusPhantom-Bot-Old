@@ -1,9 +1,7 @@
 const fetchData = require('../utils/fetchData')
 const humanizeTime = require('../utils/humanizeTime')
 const apiKeyHandler = require('./apiKeyHandler')
-const Database = require("@replit/database")
-
-const db = new Database()
+const db = require('./DatabaseManager')
 
 var uptime = new Date().getTime()
 var requestcount = 0
@@ -20,7 +18,6 @@ let statusdatacache = {
 var botstatus = true
 
 db.get("statusData").then(value => {
-  console.log(value)
   if (value === null) {
     db.set("statusData", statusdatacache)
   } else if (value !== null) {
@@ -40,8 +37,8 @@ async function start(client) {
   if (botstatus) {
     const apikey = apiKeyHandler.get()
 
-    let databot1 = await fetchData('https://api.hypixel.net/status?key=' + apikey + "&uuid=" + process.env['BOT1'])
-    let databot2 = await fetchData('https://api.hypixel.net/status?key=' + apikey + "&uuid=" + process.env['BOT2'])
+    let databot1 = await fetchData('https://api.hypixel.net/status?key=' + apikey + "&uuid=" + "bd45cd6d-5c4c-4d71-8d41-b267d5023333")
+    let databot2 = await fetchData('https://api.hypixel.net/status?key=' + apikey + "&uuid=" + "ca7c8e9b-9309-4c82-b15a-3c51e8eaeba6")
     let now = new Date().getTime()
     let botuptime = humanizeTime(now - uptime)
     let statusresponse = databot2.status
@@ -137,7 +134,7 @@ async function start(client) {
       messageresponse = "Error not defined"
     }
 
-    client.channels.cache.get(process.env['CHANNELID']).messages.fetch(process.env['MESSAGEID'])
+    client.channels.cache.get("851493171892191272").messages.fetch("851670496412303360")
     .then(msg => msg.edit({
       embed: {
         description: `This information will be updated every 30 seconds`,

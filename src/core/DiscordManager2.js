@@ -1,12 +1,12 @@
-/*const Discord = require('discord.js-selfbot');
-const fragbotHandler = require('./fragbotHandler')
+const Discord = require('discord.js-selfbot');
+const fragbotHandler = require('../modules/fragbotHandler')
 const client = new Discord.Client();
 
 var dataCache
 var fragbotChannelIDs
 
 client.on('ready', () => {
-  console.log(`Logged in as ${client.user.tag}!`);
+  console.log(`Bot2: Logged in as ${client.user.tag}!`);
   dataCache = fragbotHandler.get()
   fragbotChannelIDs = Array.from(Object.keys(dataCache))
 });
@@ -29,8 +29,8 @@ client.on('message', message => {
 
 client.on('messageUpdate', (oldMessage, newMessage) => {})
 
-function start() {
+function connect() {
   client.login(process.env['DISCORD_TOKEN2']);
 }
 
-exports.start = start;*/
+exports.connect = connect;
