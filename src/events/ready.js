@@ -17,7 +17,7 @@ module.exports = {
     ]
     let i = 0
     setInterval(() => {
-      client.user.setActivity(`${activities[i++ % activities.length]}`)
+      client.user.setActivity(`${activities[i++ % activities.length]}`, {type: ""})
     }, 15 * 1000)
     botStatus.start(client)
     hypixelStatus.start(client)

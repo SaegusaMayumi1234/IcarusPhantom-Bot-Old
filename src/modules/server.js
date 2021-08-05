@@ -4,6 +4,7 @@ const hypixelStatus = require('./hypixelStatus')
 const apiKeyHandler = require('./apiKeyHandler')
 const fragbotHandler = require('./fragbotHandler')
 const eventTimer = require('./hypixelEventTimer')
+const eventTimer2 = require('./hypixelEventTimer2')
 const bzahAPIHandler = require('./bzahAPIHandler')
 
 app.all('/', (req, res)=>{
