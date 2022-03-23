@@ -1,7 +1,7 @@
 {
   "name": "IcarusPhantom-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "This bot is always on development I suggest don't use this bot since has a lot of bug also this bot is only for my private use. I just make public for someone that might need this source code",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,7 +16,20 @@
     "canvas": "^2.8.0",
     "discord.js": "^12.5.3",
     "discord.js-selfbot": "^12.0.2",
+    "djs-selfbot": "^13.6.0",
     "express": "^4.17.1",
+    "prismarine-nbt": "^1.6.0",
     "rss-parser": "^3.12.0"
-  }
+  },
+  "devDependencies": {
+    "node": "^16.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaegusaMayumi1234/IcarusPhantom-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SaegusaMayumi1234/IcarusPhantom-bot/issues"
+  },
+  "homepage": "https://github.com/SaegusaMayumi1234/IcarusPhantom-bot#readme"
 }

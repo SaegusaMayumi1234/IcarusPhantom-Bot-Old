@@ -19,6 +19,7 @@ db.get("eventTimer").then(value => {
     db.set("eventTimer", eventTimer)
   } else {
     eventTimer = value
+    console.log("Success get database from eventTimer")
   }
 })
 

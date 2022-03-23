@@ -5,7 +5,8 @@ var dataCache = {
   lbin: "none",
   lbin1day: "none",
   shiiyubz: "none",
-  hypixelbz: "none"
+  hypixelbz: "none",
+  skytilsbz: "none"
 }
 
 db.get("bzah").then(value => {
@@ -13,6 +14,7 @@ db.get("bzah").then(value => {
     db.set("bzah", dataCache)
   } else if (value !== null) {
     dataCache = value
+    console.log("Success get database from bzah")
   }
 });
 
@@ -47,6 +49,10 @@ async function start() {
   const hypixelbz = await fetchData('https://api.hypixel.net/skyblock/bazaar')
   if (hypixelbz.status == 200) {
     dataCache.hypixelbz = hypixelbz.data
+  }
+  const lbinskytils = await fetchData('https://skytils.gg/api/auctions/lowestbins')
+  if (lbinskytils.status == 200) {
+    dataCache.lbinskytils = lbinskytils.data
   }
   save()
   setTimeout(() => {

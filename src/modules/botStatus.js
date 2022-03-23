@@ -2,6 +2,7 @@ const fetchData = require('../utils/fetchData')
 const humanizeTime = require('../utils/humanizeTime')
 const apiKeyHandler = require('./apiKeyHandler')
 const db = require('./DatabaseManager')
+const bot2 = require('../core/DiscordManager2')
 
 var uptime = new Date().getTime()
 var requestcount = 0
@@ -22,6 +23,7 @@ db.get("statusData").then(value => {
     db.set("statusData", statusdatacache)
   } else if (value !== null) {
     statusdatacache = value
+    console.log("Success get database from statusData")
   }
 });
 
@@ -39,6 +41,11 @@ async function start(client) {
 
     let databot1 = await fetchData('https://api.hypixel.net/status?key=' + apikey + "&uuid=" + "bd45cd6d-5c4c-4d71-8d41-b267d5023333")
     let databot2 = await fetchData('https://api.hypixel.net/status?key=' + apikey + "&uuid=" + "ca7c8e9b-9309-4c82-b15a-3c51e8eaeba6")
+    // let dataauctionapi1 = await fetchData('https://auction-scrapper.herokuapp.com/')
+    let dataauctionapi2 = await fetchData('https://auction-scrapper2.herokuapp.com/')
+    let dataauctionapi1 = {
+      status: 503
+    }
     let now = new Date().getTime()
     let botuptime = humanizeTime(now - uptime)
     let statusresponse = databot2.status
@@ -51,7 +58,9 @@ async function start(client) {
         datagameType2 = "unknown",
         datamode2 = "unknown",
         timermessage2 = "Time: unknown",
-        onlinewith = "unknown"
+        onlinewith = "unknown",
+        auctionapi1 = "unknown",
+        auctionapi2 = "unknown"
       
     if (databot1.status == 200) {
       dataonline1 = databot1.data.session.online
@@ -122,6 +131,7 @@ async function start(client) {
       messageresponse = "Good"
     } else if (statusresponse == 403 || statusresponse == 400) {
       messageresponse = "Invalid API key"
+      // bot2.renew()
     } else if (statusresponse == 429) {
       messageresponse = "API rate limited"
     } else if (statusresponse == 500) {
@@ -133,6 +143,22 @@ async function start(client) {
     } else {
       messageresponse = "Error not defined"
     }
+    try {
+      if (dataauctionapi1.status == 200) {
+      auctionapi1 = ":green_circle:"
+      } else {
+        auctionapi1 = ":red_circle:"
+      }
+    } catch(err) {}
+    
+    try {
+      if (dataauctionapi2.status == 200) {
+        auctionapi2 = ":green_circle:"
+      } else {
+        auctionapi2 = ":red_circle:"
+      }
+    } catch(err) {}
+
 
     client.channels.cache.get("851493171892191272").messages.fetch("851670496412303360")
     .then(msg => msg.edit({
@@ -149,15 +175,19 @@ async function start(client) {
         fields: [
           {
             "name": "SimpleFuturistic",
-            "value": `Status: ${dataonline1}\nGameType: ${datagameType1}\nMode: ${datamode1}\n${timermessage1}`
+            "value": `Status: ${dataonline1}\n${timermessage1}`
           },
           {
             "name": "IcarusPhantom",
-            "value": `OnlineMode: ${onlinewith}\nStatus: ${dataonline2}\nGameType: ${datagameType2}\nMode: ${datamode2}\n${timermessage2}`
+            "value": `OnlineMode: ${onlinewith}\nStatus: ${dataonline2}\n${timermessage2}`
           },
           {
-            "name": "API Key",
+            "name": "Hypixel API Key",
             "value": `Status: ${statusresponse}\nResponse: ${messageresponse}`
+          },
+          {
+            "name": "Auction Scrapper API",
+            "value": `**API1:**\n - Status: ${auctionapi1}\n - Response: ${dataauctionapi1.status}\n**API2:**\n - Status: ${auctionapi2}\n - Response: ${dataauctionapi2.status}`
           },
           {
             "name": "Stats",

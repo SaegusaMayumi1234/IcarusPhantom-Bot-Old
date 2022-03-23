@@ -17,6 +17,7 @@ db.get("welcomeImage").then(value => {
 module.exports = {
 	name: 'guildMemberAdd',
 	async execute(member, client) {
+    return
     const channel = member.guild.channels.cache.find(ch => ch.id === '772744864717996055');
 	  if (!channel) return;
     if (welcomeImage >= 6) {

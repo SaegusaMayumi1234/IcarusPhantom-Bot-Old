@@ -6,7 +6,8 @@ module.exports = {
   name: 'verify',
   description: 'verifying your minecraft and you discord account',
   async execute(message, args, client) {
-    if (message.channel.id !== "838798811970797588") return;
+    //if (message.channel.id !== "838798811970797588") return;
+    return
     let apikey = apiKeyHandler.get()
     let username = args[0]
     let embedMessage = await message.reply({
@@ -140,6 +141,11 @@ module.exports = {
         item.push(`-<@&${guildrolediscord}>`)
       }
     }
+
+    if (blacklist.includes(message.member.id)) {
+      message.member.roles.add("875614998343331840");
+    }
+
     let desc = item.join('\n')
     embedMessage.edit({
       embed: {
@@ -187,5 +193,11 @@ const guildrank2role = {
   "Inquisitor": "814767478982574140",
   "Minister": "814767053554188339"
 }
+
+const blacklist = [
+  "649552181208416256",
+  "453374774085681163",
+  "727476125080485940"
+]
 
 const guildrolediscord = "814767989202878504"

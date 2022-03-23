@@ -4,6 +4,7 @@ module.exports = {
   name: 'botstatus',
   description: 'enable and disable bot status',
   execute(message, args, client) {
+    return
     if (message.author.id !== "433183607646060544") {
       message.reply("You don't have permission to do this!")
       return

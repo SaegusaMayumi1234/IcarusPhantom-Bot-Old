@@ -1,4 +1,5 @@
 const db = require('../modules/DatabaseManager')
+const fs = require('fs')
 
 var verifyDataCache = [
   {
@@ -14,10 +15,17 @@ var verifyDataCache = [
 ]
 
 db.get("verifyData").then(value => {
+  //console.log(value)
   if (value === null) {
     db.set("verifyData", verifyDataCache)
   } else if (value !== null) {
     verifyDataCache = value
+    fs.writeFile ("input.json", JSON.stringify(verifyDataCache, null, 2), function(err) {
+    if (err) throw err;
+    console.log('complete');
+    }
+);
+    console.log("Success get database from verifyData")
   }
 });
 

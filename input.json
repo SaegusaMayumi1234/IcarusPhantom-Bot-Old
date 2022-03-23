@@ -1,0 +1,2146 @@
+[
+  {
+    "username": "none",
+    "uuid": "none",
+    "shiguild": false,
+    "discordtag": "none",
+    "discordid": "none",
+    "forced": true,
+    "discordtagcache": [],
+    "discordidcache": []
+  },
+  {
+    "username": "IcarusPhantom",
+    "uuid": "ca7c8e9b93094c82b15a3c51e8eaeba6",
+    "shiguild": true,
+    "discordtag": "IcarusPhantom#9084",
+    "discordid": "433183607646060544",
+    "forced": false,
+    "discordtagcache": [
+      "IcarusPhantom#9084"
+    ],
+    "discordidcache": [
+      "433183607646060544"
+    ]
+  },
+  {
+    "username": "Xyneee",
+    "uuid": "cf50d7c1118043e79a7e7e449ab0e3b4",
+    "shiguild": true,
+    "discordtag": "Xyneplayz#8541",
+    "discordid": "475265992419835924",
+    "forced": false,
+    "discordtagcache": [
+      "Xyneplayz#8541"
+    ],
+    "discordidcache": [
+      "475265992419835924"
+    ]
+  },
+  {
+    "username": "SassyLords",
+    "uuid": "9fc9dd32a7ed4d32b8bc94ab3fd32a1c",
+    "shiguild": true,
+    "discordtag": "RhnAgn#9820",
+    "discordid": "694719736940068865",
+    "forced": false,
+    "discordtagcache": [
+      "RhnAgn#9820"
+    ],
+    "discordidcache": [
+      "694719736940068865"
+    ]
+  },
+  {
+    "username": "JungleAxe",
+    "uuid": "f9a2453a76934fd09b5fa883632207d6",
+    "shiguild": false,
+    "discordtag": "JungleAxe#0001",
+    "discordid": "649552181208416256",
+    "forced": true,
+    "discordtagcache": [
+      "JungleAxe#0001"
+    ],
+    "discordidcache": [
+      "649552181208416256"
+    ]
+  },
+  {
+    "username": "Azhqel",
+    "uuid": "a0e6c22437ff4a9d8229d1aa455203ef",
+    "shiguild": true,
+    "discordtag": "Azhael#6899",
+    "discordid": "453374774085681163",
+    "forced": false,
+    "discordtagcache": [
+      "Azhael#3004",
+      "Azhael#6899"
+    ],
+    "discordidcache": [
+      "453374774085681163"
+    ]
+  },
+  {
+    "username": "STRONGVIST",
+    "uuid": "83a55f14aee5439e8bfcce40c3c3c26c",
+    "shiguild": true,
+    "discordtag": "STRONGVIST#8870",
+    "discordid": "529337632858177537",
+    "forced": false,
+    "discordtagcache": [
+      "STRONGVIST#8870"
+    ],
+    "discordidcache": [
+      "529337632858177537"
+    ]
+  },
+  {
+    "username": "Fazmut",
+    "uuid": "6e54bea3e7e241659b45945e9e7dd1cf",
+    "shiguild": true,
+    "discordtag": "Fqsmut#9595",
+    "discordid": "870091480293842954",
+    "forced": false,
+    "discordtagcache": [
+      "Fqsmut#9595"
+    ],
+    "discordidcache": [
+      "870091480293842954"
+    ]
+  },
+  {
+    "username": "GantengMan_",
+    "uuid": "2fdf29798e66428b809e7d378849e01b",
+    "shiguild": true,
+    "discordtag": "GantengMan#1044",
+    "discordid": "724519006836359168",
+    "forced": false,
+    "discordtagcache": [
+      "GantengMan#1044"
+    ],
+    "discordidcache": [
+      "724519006836359168"
+    ]
+  },
+  {
+    "username": "FTrashed",
+    "uuid": "0d5ef9f374d5417188c6fb8332d90984",
+    "shiguild": false,
+    "discordtag": "trashed#7188",
+    "discordid": "642028488303443968",
+    "forced": false,
+    "discordtagcache": [
+      "trashed#7188"
+    ],
+    "discordidcache": [
+      "642028488303443968"
+    ]
+  },
+  {
+    "username": "lclicon",
+    "uuid": "bf983d5d831f4186a16fb73f3ab7a88e",
+    "shiguild": true,
+    "discordtag": "SenPz#3976",
+    "discordid": "657463285733392386",
+    "forced": true,
+    "discordtagcache": [
+      "SenPz#3976"
+    ],
+    "discordidcache": [
+      "657463285733392386"
+    ]
+  },
+  {
+    "username": "RumusMatematika",
+    "uuid": "c33abe39301344368fa6be9cc1a58021",
+    "shiguild": true,
+    "discordtag": "Milly#5350",
+    "discordid": "773128402604785664",
+    "forced": false,
+    "discordtagcache": [
+      "Nakirium#4425",
+      "Rendeveus#4425",
+      "Milly#5350"
+    ],
+    "discordidcache": [
+      "773128402604785664"
+    ]
+  },
+  {
+    "username": "Rianlyna",
+    "uuid": "9fc7c11819b04eaaa54cbeaad3ad873a",
+    "shiguild": true,
+    "discordtag": "Wadowmantap#6666",
+    "discordid": "469802946268233740",
+    "forced": false,
+    "discordtagcache": [
+      "Wadowmantap#6666"
+    ],
+    "discordidcache": [
+      "469802946268233740"
+    ]
+  },
+  {
+    "username": "BantengMerah_",
+    "uuid": "4031c564e0c94c12b6c1f118c28ca0d9",
+    "shiguild": true,
+    "discordtag": "Kizoru#3064",
+    "discordid": "721943199379226675",
+    "forced": false,
+    "discordtagcache": [
+      "Kijoru#3064",
+      "NotNon_#3064",
+      "Kizoru#3064"
+    ],
+    "discordidcache": [
+      "721943199379226675"
+    ]
+  },
+  {
+    "username": "BrosG",
+    "uuid": "04604827bb624766967440ce78d94b31",
+    "shiguild": true,
+    "discordtag": "Skyman#1075",
+    "discordid": "867551205584535592",
+    "forced": true,
+    "discordtagcache": [
+      "Skyman#1075"
+    ],
+    "discordidcache": [
+      "867551205584535592"
+    ]
+  },
+  {
+    "username": "Hensaaa",
+    "uuid": "fd5450328cc945f09f7745d76a04afe9",
+    "shiguild": true,
+    "discordtag": "Henn#7281",
+    "discordid": "727476125080485940",
+    "forced": false,
+    "discordtagcache": [
+      "Henn#7281"
+    ],
+    "discordidcache": [
+      "727476125080485940"
+    ]
+  },
+  {
+    "username": "zanslfa",
+    "uuid": "a4344a4bac394f68ad14ead3c2171b27",
+    "shiguild": true,
+    "discordtag": "rafi#6283",
+    "discordid": "263217680243228694",
+    "forced": false,
+    "discordtagcache": [
+      "rafi#6283"
+    ],
+    "discordidcache": [
+      "263217680243228694"
+    ]
+  },
+  {
+    "username": "ReapHz",
+    "uuid": "ef0740153610453abccd8e985ea97562",
+    "shiguild": true,
+    "discordtag": "Reap#0422",
+    "discordid": "249757822873632769",
+    "forced": true,
+    "discordtagcache": [
+      "Reap#0422"
+    ],
+    "discordidcache": [
+      "249757822873632769"
+    ]
+  },
+  {
+    "username": "GroneSnow",
+    "uuid": "e4e124ccedb04f0dbf3227ddda911363",
+    "shiguild": true,
+    "discordtag": "GroneSnow#4686",
+    "discordid": "752326863782936636",
+    "forced": true,
+    "discordtagcache": [
+      "GroneSnow#4686"
+    ],
+    "discordidcache": [
+      "752326863782936636"
+    ]
+  },
+  {
+    "username": "MrSkyBound",
+    "uuid": "9dc61705ec9b4ae991617e4bbb2ad69a",
+    "shiguild": true,
+    "discordtag": "MrSkyBound#9850",
+    "discordid": "652786968949817344",
+    "forced": true,
+    "discordtagcache": [
+      "MrSkyBound#9850"
+    ],
+    "discordidcache": [
+      "652786968949817344"
+    ]
+  },
+  {
+    "username": "klzx",
+    "uuid": "d2f1b0d64c8a40dca6aa70bcb0f23c8d",
+    "shiguild": true,
+    "discordtag": "LegHunterXD#2259",
+    "discordid": "657883621465653250",
+    "forced": true,
+    "discordtagcache": [
+      "LegHunterXD#2259"
+    ],
+    "discordidcache": [
+      "657883621465653250"
+    ]
+  },
+  {
+    "username": "Heqt",
+    "uuid": "15f76a313c4e495a871266497204bd87",
+    "shiguild": false,
+    "discordtag": "Heqt#0001",
+    "discordid": "766920234534961164",
+    "forced": false,
+    "discordtagcache": [
+      "Heqt#2761",
+      "Heqt#0001"
+    ],
+    "discordidcache": [
+      "766920234534961164"
+    ]
+  },
+  {
+    "username": "lahosy",
+    "uuid": "0bd09c8a2d9e41dcb3c812a3a5c5be23",
+    "shiguild": true,
+    "discordtag": "ray.#3335",
+    "discordid": "691598611007537243",
+    "forced": true,
+    "discordtagcache": [
+      "bombl#9162",
+      "ray.#3335"
+    ],
+    "discordidcache": [
+      "691598611007537243"
+    ]
+  },
+  {
+    "username": "Rovlinz",
+    "uuid": "de9af59f41724f53b6f077680a272110",
+    "shiguild": true,
+    "discordtag": "Rovlinz#1837",
+    "discordid": "755261086269177977",
+    "forced": true,
+    "discordtagcache": [
+      "Rovlinz#1837"
+    ],
+    "discordidcache": [
+      "755261086269177977"
+    ]
+  },
+  {
+    "username": "Pucuk",
+    "uuid": "bfbd332425ee47fb8e6a29ea570b75d6",
+    "shiguild": true,
+    "discordtag": "see ai ow#6353",
+    "discordid": "596549043606519810",
+    "forced": false,
+    "discordtagcache": [
+      "see ai ow#6353"
+    ],
+    "discordidcache": [
+      "596549043606519810"
+    ]
+  },
+  {
+    "username": "Renee_1",
+    "uuid": "6a188ca1420546e2bb2bf80ff900fde4",
+    "shiguild": true,
+    "discordtag": "Saint#6884",
+    "discordid": "396893177845645315",
+    "forced": false,
+    "discordtagcache": [
+      "Saint#6884"
+    ],
+    "discordidcache": [
+      "396893177845645315"
+    ]
+  },
+  {
+    "username": "Bibinv",
+    "uuid": "bf39810ece9b45db80a807d7e1e293aa",
+    "shiguild": true,
+    "discordtag": "Bibin#8653",
+    "discordid": "766532211507724319",
+    "forced": true,
+    "discordtagcache": [
+      "Bibin#8653"
+    ],
+    "discordidcache": [
+      "766532211507724319"
+    ]
+  },
+  {
+    "username": "OreoEna_",
+    "uuid": "4affb0197e094b959246843f9e1dd8ec",
+    "shiguild": true,
+    "discordtag": "vixzyyy#0021",
+    "discordid": "386024474564100099",
+    "forced": true,
+    "discordtagcache": [
+      "vixzyyy#0021"
+    ],
+    "discordidcache": [
+      "386024474564100099"
+    ]
+  },
+  {
+    "username": "Evelyna_",
+    "uuid": "d1eb1e51581548a48bbd4670ee1ec6c4",
+    "shiguild": true,
+    "discordtag": "Evelyna_#0069",
+    "discordid": "416147531941281792",
+    "forced": false,
+    "discordtagcache": [
+      "Evelyna_#0069"
+    ],
+    "discordidcache": [
+      "416147531941281792"
+    ]
+  },
+  {
+    "username": "SpaceyPandora",
+    "uuid": "962f708536a64aec9e47f1260b0c212e",
+    "shiguild": true,
+    "discordtag": "SpaceyPandora#5500",
+    "discordid": "250105335715594240",
+    "forced": false,
+    "discordtagcache": [
+      "SpaceyPandora#5500"
+    ],
+    "discordidcache": [
+      "250105335715594240"
+    ]
+  },
+  {
+    "username": "AriAtha73",
+    "uuid": "d67df0213d48446698e6473759b3ce26",
+    "shiguild": false,
+    "discordtag": "AriAtha#1875",
+    "discordid": "711864682276978799",
+    "forced": false,
+    "discordtagcache": [
+      "AriAtha#2007",
+      "AriAtha#1875"
+    ],
+    "discordidcache": [
+      "711864682276978799"
+    ]
+  },
+  {
+    "username": "gdearjuna",
+    "uuid": "bb96412466ca40b99be128f681e6a037",
+    "shiguild": true,
+    "discordtag": "gdearjuna#6730",
+    "discordid": "592267970495905812",
+    "forced": false,
+    "discordtagcache": [
+      "gdearjuna#6730"
+    ],
+    "discordidcache": [
+      "592267970495905812"
+    ]
+  },
+  {
+    "username": "oLximq",
+    "uuid": "6aa3b6bf0ccc40a084b13df9d54e1e79",
+    "shiguild": true,
+    "discordtag": "LumixGaraga#5574",
+    "discordid": "688598621964337183",
+    "forced": false,
+    "discordtagcache": [
+      "LumixGaraga#5574"
+    ],
+    "discordidcache": [
+      "688598621964337183"
+    ]
+  },
+  {
+    "username": "Rachelii_",
+    "uuid": "94b165c764ad4368b152c785456be97c",
+    "shiguild": true,
+    "discordtag": "Rachelii_#5109",
+    "discordid": "752552094954946582",
+    "forced": false,
+    "discordtagcache": [
+      "Rachelii_#5109"
+    ],
+    "discordidcache": [
+      "752552094954946582"
+    ]
+  },
+  {
+    "username": "seigeblade",
+    "uuid": "e765179597db43a9bce017541cfaa42a",
+    "shiguild": true,
+    "discordtag": "Stress123#4335",
+    "discordid": "333213316191354882",
+    "forced": false,
+    "discordtagcache": [
+      "Stress123#4335"
+    ],
+    "discordidcache": [
+      "333213316191354882"
+    ]
+  },
+  {
+    "username": "Sanzcarter",
+    "uuid": "b3b51f09743d44c6be751d88f3b575f7",
+    "shiguild": true,
+    "discordtag": "Sanzcarter#6813",
+    "discordid": "637857128270397476",
+    "forced": true,
+    "discordtagcache": [
+      "Sanzcarter#6813"
+    ],
+    "discordidcache": [
+      "637857128270397476"
+    ]
+  },
+  {
+    "username": "BlackApple80",
+    "uuid": "54ec331e95934b529a1242c96c971d7f",
+    "shiguild": false,
+    "discordtag": "BlackApple80#7634",
+    "discordid": "538973333329412096",
+    "forced": true,
+    "discordtagcache": [
+      "BlackApple80#7634"
+    ],
+    "discordidcache": [
+      "538973333329412096"
+    ]
+  },
+  {
+    "username": "RayXR",
+    "uuid": "b8fece56d6f746b9a91258d1d7d8fa14",
+    "shiguild": true,
+    "discordtag": "RayXR#7104",
+    "discordid": "397573156589666307",
+    "forced": false,
+    "discordtagcache": [
+      "RayXR#7104"
+    ],
+    "discordidcache": [
+      "397573156589666307"
+    ]
+  },
+  {
+    "username": "Axolorth",
+    "uuid": "fbe9adb205dc4d6db45e5a30ddfc6aa6",
+    "shiguild": true,
+    "discordtag": "Axolorth#3539",
+    "discordid": "660394983727038464",
+    "forced": false,
+    "discordtagcache": [
+      "Axolorth#3539",
+      "Vaxzer#3539"
+    ],
+    "discordidcache": [
+      "660394983727038464"
+    ]
+  },
+  {
+    "username": "XTPS",
+    "uuid": "92e97a1a6a3348bfb885eee440f81591",
+    "shiguild": true,
+    "discordtag": "XTPS#1641",
+    "discordid": "266150770015993856",
+    "forced": false,
+    "discordtagcache": [
+      "XTPS#1641"
+    ],
+    "discordidcache": [
+      "266150770015993856"
+    ]
+  },
+  {
+    "username": "TheIllusion",
+    "uuid": "25f611324d164e088f0e49f051461a6c",
+    "shiguild": true,
+    "discordtag": "TheIllusion#4579",
+    "discordid": "459271552748355615",
+    "forced": false,
+    "discordtagcache": [
+      "TheIllusion#4579"
+    ],
+    "discordidcache": [
+      "459271552748355615"
+    ]
+  },
+  {
+    "username": "Jablebber",
+    "uuid": "37f61ae6db6a46ddb87c66c69130afc0",
+    "shiguild": true,
+    "discordtag": "anthoshark#8027",
+    "discordid": "534564762646872074",
+    "forced": false,
+    "discordtagcache": [
+      "anthoshark#8027"
+    ],
+    "discordidcache": [
+      "534564762646872074"
+    ]
+  },
+  {
+    "username": "indocraft_840YT",
+    "uuid": "ccb1bc7f5ad5411aa6f29d767f4b7b46",
+    "shiguild": false,
+    "discordtag": "indocraft_840#6699",
+    "discordid": "802794180367482920",
+    "forced": true,
+    "discordtagcache": [
+      "indocraft_840#6699"
+    ],
+    "discordidcache": [
+      "802794180367482920"
+    ]
+  },
+  {
+    "username": "DarknessBlade710",
+    "uuid": "c22e3d60d1d14218acbd6ee5f07a10bd",
+    "shiguild": true,
+    "discordtag": "DarknessBlade710#7856",
+    "discordid": "690388172877856798",
+    "forced": false,
+    "discordtagcache": [
+      "DarknessBlade710#7856"
+    ],
+    "discordidcache": [
+      "690388172877856798"
+    ]
+  },
+  {
+    "username": "fn7d_",
+    "uuid": "ea0d6e5be47145be89010f91f5d5b603",
+    "shiguild": true,
+    "discordtag": "fn7d#3319",
+    "discordid": "538972640103235605",
+    "forced": true,
+    "discordtagcache": [
+      "fn7d#3319"
+    ],
+    "discordidcache": [
+      "538972640103235605"
+    ]
+  },
+  {
+    "username": "xzCyber",
+    "uuid": "dc18df5701a94e4f884fe6c1ba90105a",
+    "shiguild": true,
+    "discordtag": "xzCyber#4856",
+    "discordid": "677923484675997756",
+    "forced": false,
+    "discordtagcache": [
+      "BebekPutih#4856",
+      "KucingOrange#4856",
+      "TheyCallMeTenzy#4856",
+      "oTenzy#4856",
+      "xzCyber#4856"
+    ],
+    "discordidcache": [
+      "677923484675997756"
+    ]
+  },
+  {
+    "username": "Lastias",
+    "uuid": "f219bc16cd6c429fa32bb4a0ee5d2a7f",
+    "shiguild": true,
+    "discordtag": "Lastias#4103",
+    "discordid": "393251579421261845",
+    "forced": true,
+    "discordtagcache": [
+      "Lastias#4103"
+    ],
+    "discordidcache": [
+      "393251579421261845"
+    ]
+  },
+  {
+    "username": "Shizmorgan",
+    "uuid": "9d4aac0364614223899efbe29bedcfdf",
+    "shiguild": false,
+    "discordtag": "Shizmorgan#4732",
+    "discordid": "781168828394373121",
+    "forced": true,
+    "discordtagcache": [
+      "Shizmorgan#4732"
+    ],
+    "discordidcache": [
+      "781168828394373121"
+    ]
+  },
+  {
+    "username": "ImNotMotor",
+    "uuid": "06049fd7c16140888bb1b29544bcfc50",
+    "shiguild": true,
+    "discordtag": "n10x#9122",
+    "discordid": "684726158817755187",
+    "forced": false,
+    "discordtagcache": [
+      "n10x#9122"
+    ],
+    "discordidcache": [
+      "684726158817755187"
+    ]
+  },
+  {
+    "username": "Floella",
+    "uuid": "b266386d570341e995af7f3e845b5d9d",
+    "shiguild": false,
+    "discordtag": "Floella#8278",
+    "discordid": "598849042071552001",
+    "forced": true,
+    "discordtagcache": [
+      "Floella#8278"
+    ],
+    "discordidcache": [
+      "598849042071552001"
+    ]
+  },
+  {
+    "username": "MadTzy",
+    "uuid": "4a27c94d165e457899a2ca8368fb9d11",
+    "shiguild": true,
+    "discordtag": "MadTzy#6151",
+    "discordid": "906533709543514122",
+    "forced": false,
+    "discordtagcache": [
+      "ItznotImdeh#7904",
+      "MadTzy#6151"
+    ],
+    "discordidcache": [
+      "559346076453175309",
+      "906533709543514122"
+    ]
+  },
+  {
+    "username": "ZaimAji",
+    "uuid": "17feea89a72a47bd92340537bab12a2d",
+    "shiguild": false,
+    "discordtag": "zaimaji#3535",
+    "discordid": "747375922541363280",
+    "forced": true,
+    "discordtagcache": [
+      "zaimaji#3535"
+    ],
+    "discordidcache": [
+      "747375922541363280"
+    ]
+  },
+  {
+    "username": "Lxdy30_",
+    "uuid": "1ec6cf42a0024fdd81d0e7975501daf5",
+    "shiguild": true,
+    "discordtag": "lxdy#2980",
+    "discordid": "793482357226340402",
+    "forced": true,
+    "discordtagcache": [
+      "lxdy#2980"
+    ],
+    "discordidcache": [
+      "793482357226340402"
+    ]
+  },
+  {
+    "username": "Roxymaxon",
+    "uuid": "5491e9d6f98a4ab0990641a4ecb74823",
+    "shiguild": true,
+    "discordtag": "Roxymaxon#2296",
+    "discordid": "562770810142457866",
+    "forced": false,
+    "discordtagcache": [
+      "Roxymaxon#2296"
+    ],
+    "discordidcache": [
+      "562770810142457866"
+    ]
+  },
+  {
+    "username": "Frost_FoSs_Ina",
+    "uuid": "e83ac510fa5f486785ad44fd7804eaa8",
+    "shiguild": true,
+    "discordtag": "prabu siwi#3335",
+    "discordid": "786321968302915604",
+    "forced": false,
+    "discordtagcache": [
+      "prabu siwi#3335"
+    ],
+    "discordidcache": [
+      "786321968302915604"
+    ]
+  },
+  {
+    "username": "ilenady",
+    "uuid": "c9955afb1557409db032720ecff407d6",
+    "shiguild": true,
+    "discordtag": "ilenady#1937",
+    "discordid": "609435339978702848",
+    "forced": true,
+    "discordtagcache": [
+      "ilenady#1937"
+    ],
+    "discordidcache": [
+      "609435339978702848"
+    ]
+  },
+  {
+    "username": "Ud1nnn",
+    "uuid": "1d29b2a490cc4a2da8d0d576e46c4b9c",
+    "shiguild": true,
+    "discordtag": "Udin#0960",
+    "discordid": "375967026558271489",
+    "forced": false,
+    "discordtagcache": [
+      "mad#1131",
+      "Udin#0960"
+    ],
+    "discordidcache": [
+      "375967026558271489"
+    ]
+  },
+  {
+    "username": "Goyarn",
+    "uuid": "528611ad086f483baeebd74c497658d4",
+    "shiguild": false,
+    "discordtag": "pentil#1226",
+    "discordid": "756121912261738516",
+    "forced": false,
+    "discordtagcache": [
+      "pentil#1226"
+    ],
+    "discordidcache": [
+      "756121912261738516"
+    ]
+  },
+  {
+    "username": "Cryssiants",
+    "uuid": "2a5b061a260341e08576874efe8c1747",
+    "shiguild": true,
+    "discordtag": "SilverstoneS#5313",
+    "discordid": "320181288650932235",
+    "forced": false,
+    "discordtagcache": [
+      "SilverstoneS#5313"
+    ],
+    "discordidcache": [
+      "320181288650932235"
+    ]
+  },
+  {
+    "username": "UnSTimee_ID",
+    "uuid": "9965d603385b462f97c5e8291bbcf5c8",
+    "shiguild": false,
+    "discordtag": "xofortime#5794",
+    "discordid": "790902264847794196",
+    "forced": false,
+    "discordtagcache": [
+      "xofortime#5794"
+    ],
+    "discordidcache": [
+      "790902264847794196"
+    ]
+  },
+  {
+    "username": "Voonn",
+    "uuid": "fb1cb3f588b042af8fbd316cb01fd0e3",
+    "shiguild": true,
+    "discordtag": "von#6302",
+    "discordid": "224145673065463808",
+    "forced": false,
+    "discordtagcache": [
+      "von#6302"
+    ],
+    "discordidcache": [
+      "224145673065463808"
+    ]
+  },
+  {
+    "username": "AnyOlds",
+    "uuid": "220cd2deabde411a9ec576500b82f683",
+    "shiguild": true,
+    "discordtag": "AnyOlds#0219",
+    "discordid": "485788414096965632",
+    "forced": false,
+    "discordtagcache": [
+      "AnyOlds#0219"
+    ],
+    "discordidcache": [
+      "485788414096965632"
+    ]
+  },
+  {
+    "username": "AnzLuck",
+    "uuid": "d587bcee945e4fd6b590aad7f2c372cd",
+    "shiguild": true,
+    "discordtag": "forenoo#4558",
+    "discordid": "827671915253989387",
+    "forced": false,
+    "discordtagcache": [
+      "forenooo#2046",
+      "forenoo#0696",
+      "forenoo#4558"
+    ],
+    "discordidcache": [
+      "827671915253989387"
+    ]
+  },
+  {
+    "username": "ijat",
+    "uuid": "062017d9b3c8461cb7e9fcef5febbb5e",
+    "shiguild": true,
+    "discordtag": "klum#7885",
+    "discordid": "718760243902939147",
+    "forced": false,
+    "discordtagcache": [
+      "klum#7885"
+    ],
+    "discordidcache": [
+      "718760243902939147"
+    ]
+  },
+  {
+    "username": "ItsChaotible",
+    "uuid": "654b1dd2aa2b4d0eb5ec6157c88bd42a",
+    "shiguild": true,
+    "discordtag": "Forgamer131#4990",
+    "discordid": "451740692759314443",
+    "forced": true,
+    "discordtagcache": [
+      "Forgamer131#4990"
+    ],
+    "discordidcache": [
+      "451740692759314443"
+    ]
+  },
+  {
+    "username": "Rumberkren",
+    "uuid": "4cee1667fc774530bf08d01db1ebee22",
+    "shiguild": true,
+    "discordtag": "Rumberkren#9757",
+    "discordid": "218688077558841344",
+    "forced": false,
+    "discordtagcache": [
+      "Rumberkren#9757"
+    ],
+    "discordidcache": [
+      "218688077558841344"
+    ]
+  },
+  {
+    "username": "Zavierr",
+    "uuid": "e4c5d2d169be4713a156397e842ad925",
+    "shiguild": true,
+    "discordtag": "Zavier#8993",
+    "discordid": "323324195620651009",
+    "forced": true,
+    "discordtagcache": [
+      "Zavier#8993"
+    ],
+    "discordidcache": [
+      "323324195620651009"
+    ]
+  },
+  {
+    "username": "Ruithefox",
+    "uuid": "c38f40083f2a450d8b81190908d1d2ee",
+    "shiguild": true,
+    "discordtag": "Ruithefox#0001",
+    "discordid": "234857065514795009",
+    "forced": false,
+    "discordtagcache": [
+      "Ruithefox#0001"
+    ],
+    "discordidcache": [
+      "234857065514795009"
+    ]
+  },
+  {
+    "username": "AnzL",
+    "uuid": "2b29e93a71454b1f8ce03342624b3b6e",
+    "shiguild": false,
+    "discordtag": "AnzL#9301",
+    "discordid": "417565645509754904",
+    "forced": false,
+    "discordtagcache": [
+      "AnzL#9301"
+    ],
+    "discordidcache": [
+      "417565645509754904"
+    ]
+  },
+  {
+    "username": "platwhen",
+    "uuid": "6f9977a33f1a4cb996a83ceacc67a928",
+    "shiguild": true,
+    "discordtag": "El#1558",
+    "discordid": "775330847851020298",
+    "forced": false,
+    "discordtagcache": [
+      "El#1558"
+    ],
+    "discordidcache": [
+      "775330847851020298"
+    ]
+  },
+  {
+    "username": "sueltaan",
+    "uuid": "1255156ae6094bb09d0db30a2be19f92",
+    "shiguild": false,
+    "discordtag": "Sueltan#1728",
+    "discordid": "852825806513504258",
+    "forced": false,
+    "discordtagcache": [
+      "Sueltan#1728"
+    ],
+    "discordidcache": [
+      "852825806513504258"
+    ]
+  },
+  {
+    "username": "CyberNachster",
+    "uuid": "e702000e78b14a978ba2bf00a6fffaca",
+    "shiguild": true,
+    "discordtag": "Finity1#4484",
+    "discordid": "658463343367028737",
+    "forced": true,
+    "discordtagcache": [
+      "Finity1#4484"
+    ],
+    "discordidcache": [
+      "658463343367028737"
+    ]
+  },
+  {
+    "username": "Eirhyn",
+    "uuid": "b85ac3a20bb04e9588b552d3ca4e5f9e",
+    "shiguild": true,
+    "discordtag": "Eirhyn#0050",
+    "discordid": "714389060843470889",
+    "forced": false,
+    "discordtagcache": [
+      "Naafy_#0050",
+      "Eirhyn#0050"
+    ],
+    "discordidcache": [
+      "714389060843470889"
+    ]
+  },
+  {
+    "username": "Lievira",
+    "uuid": "cac18ad130f946be908ee813ae50637d",
+    "shiguild": false,
+    "discordtag": "Lievira#9901",
+    "discordid": "583150227838599174",
+    "forced": false,
+    "discordtagcache": [
+      "Lievira#9901"
+    ],
+    "discordidcache": [
+      "583150227838599174"
+    ]
+  },
+  {
+    "username": "bruwn",
+    "uuid": "7db2860ab0ca45fabdbbf2e5dd5fa9d3",
+    "shiguild": true,
+    "discordtag": "bruwn#9477",
+    "discordid": "689601411327197224",
+    "forced": false,
+    "discordtagcache": [
+      "bruwn#9477"
+    ],
+    "discordidcache": [
+      "689601411327197224"
+    ]
+  },
+  {
+    "username": "CtrlXV",
+    "uuid": "b39f816cc1c44153864d7f9e318b00a3",
+    "shiguild": true,
+    "discordtag": "ctrlxv#2096",
+    "discordid": "465678674071650305",
+    "forced": false,
+    "discordtagcache": [
+      "ctrlxv#2096"
+    ],
+    "discordidcache": [
+      "465678674071650305"
+    ]
+  },
+  {
+    "username": "wkwkwkwkzzzz",
+    "uuid": "9c19da2c6f6c48438c2257d056bb9379",
+    "shiguild": true,
+    "discordtag": "IndraFawwaz#7078",
+    "discordid": "529443530217881600",
+    "forced": false,
+    "discordtagcache": [
+      "IndraFawwaz#7078"
+    ],
+    "discordidcache": [
+      "529443530217881600"
+    ]
+  },
+  {
+    "username": "GuberHasUpgraded",
+    "uuid": "60920960af8f47219c5c3fa94d58d004",
+    "shiguild": true,
+    "discordtag": "AxoGuber#8206",
+    "discordid": "424821489603313664",
+    "forced": false,
+    "discordtagcache": [
+      "BankerBarry#4509",
+      "AxoGuber#8206"
+    ],
+    "discordidcache": [
+      "856445340924248094",
+      "424821489603313664"
+    ]
+  },
+  {
+    "username": "AyrFyre",
+    "uuid": "2f46e661a2254e05b2c2da7be34b6cb3",
+    "shiguild": true,
+    "discordtag": "Ayr#0985",
+    "discordid": "880587776670707712",
+    "forced": false,
+    "discordtagcache": [
+      "Ayr#0985"
+    ],
+    "discordidcache": [
+      "880587776670707712"
+    ]
+  },
+  {
+    "username": "UnSTimee__",
+    "uuid": "ea74b61471b24796a8008fffc27d5b6f",
+    "shiguild": false,
+    "discordtag": "xofortime#5794",
+    "discordid": "790902264847794196",
+    "forced": false,
+    "discordtagcache": [
+      "xofortime#5794"
+    ],
+    "discordidcache": [
+      "790902264847794196"
+    ]
+  },
+  {
+    "username": "1saL",
+    "uuid": "e3f5f5ceeaad4f3cb06880446a1f762a",
+    "shiguild": false,
+    "discordtag": "IsaL#5401",
+    "discordid": "702404780076826784",
+    "forced": false,
+    "discordtagcache": [
+      "IsaL#5401"
+    ],
+    "discordidcache": [
+      "702404780076826784"
+    ]
+  },
+  {
+    "username": "aegist",
+    "uuid": "42e794d9259349a3b7bd34e11e5239db",
+    "shiguild": true,
+    "discordtag": "marz#2474",
+    "discordid": "257133763400564736",
+    "forced": false,
+    "discordtagcache": [
+      "marz#2474"
+    ],
+    "discordidcache": [
+      "257133763400564736"
+    ]
+  },
+  {
+    "username": "Vincun",
+    "uuid": "42d3084bda9043e28227d1185fe4e0e7",
+    "shiguild": true,
+    "discordtag": "Vincun#4373",
+    "discordid": "336048335754625025",
+    "forced": false,
+    "discordtagcache": [
+      "Vincun#4373"
+    ],
+    "discordidcache": [
+      "336048335754625025"
+    ]
+  },
+  {
+    "username": "ForceGamings",
+    "uuid": "16756dbb0bf045a69c37cbc4f7d98d0e",
+    "shiguild": true,
+    "discordtag": "ForceBFL#2305",
+    "discordid": "813573646529986571",
+    "forced": false,
+    "discordtagcache": [
+      "ForceBFL#2305"
+    ],
+    "discordidcache": [
+      "813573646529986571"
+    ]
+  },
+  {
+    "username": "Zexfron",
+    "uuid": "290cc63cc2fe41cebc1ccbe4fd008332",
+    "shiguild": true,
+    "discordtag": "Zex#8875",
+    "discordid": "740068897583136808",
+    "forced": false,
+    "discordtagcache": [
+      "Zex#8875"
+    ],
+    "discordidcache": [
+      "740068897583136808"
+    ]
+  },
+  {
+    "username": "Puqqo",
+    "uuid": "b47db474035e49d7a7a25cc06cd85b15",
+    "shiguild": true,
+    "discordtag": "_LuisV#0432",
+    "discordid": "710499480973344792",
+    "forced": false,
+    "discordtagcache": [
+      "TheMeong#0432",
+      "_LuisV#0432"
+    ],
+    "discordidcache": [
+      "710499480973344792"
+    ]
+  },
+  {
+    "username": "Alray15",
+    "uuid": "c3fe1b690db945c48de1e4e06557d230",
+    "shiguild": true,
+    "discordtag": "samray#7111",
+    "discordid": "620123403428429844",
+    "forced": false,
+    "discordtagcache": [
+      "samray#7111"
+    ],
+    "discordidcache": [
+      "620123403428429844"
+    ]
+  },
+  {
+    "username": "BenryMC",
+    "uuid": "f9a271dbb25d4189adfcd9a01b76e9f0",
+    "shiguild": false,
+    "discordtag": "Benry#8725",
+    "discordid": "590534297530793984",
+    "forced": true,
+    "discordtagcache": [
+      "Benry#8725"
+    ],
+    "discordidcache": [
+      "590534297530793984"
+    ]
+  },
+  {
+    "username": "TikusBerdasi",
+    "uuid": "8834f056d53048afa35af266da59c8ca",
+    "shiguild": true,
+    "discordtag": "ayamterbang#0793",
+    "discordid": "731792531662307369",
+    "forced": false,
+    "discordtagcache": [
+      "TED TOD#7710",
+      "Shyne2#5997",
+      "ayamterbang#0793"
+    ],
+    "discordidcache": [
+      "532924628662747146",
+      "938795765520797707",
+      "731792531662307369"
+    ]
+  },
+  {
+    "username": "Oksigen",
+    "uuid": "8f48b41a22c543e692d51c10f3ea901b",
+    "shiguild": true,
+    "discordtag": "deeeo#7777",
+    "discordid": "906515771130261524",
+    "forced": false,
+    "discordtagcache": [
+      "MrPodeey#4614",
+      "Pods#8888",
+      "deeeo#7777"
+    ],
+    "discordidcache": [
+      "707936626214699039",
+      "906515771130261524"
+    ]
+  },
+  {
+    "username": "CremeeBrulee",
+    "uuid": "aed1c335437e4b57b27f67ac529c1b14",
+    "shiguild": false,
+    "discordtag": "scilo#6710",
+    "discordid": "764802475194056715",
+    "forced": true,
+    "discordtagcache": [
+      "scilo#6710"
+    ],
+    "discordidcache": [
+      "764802475194056715"
+    ]
+  },
+  {
+    "username": "JustMattr",
+    "uuid": "0f4e6fd11b3c4435aa30357a847336ad",
+    "shiguild": true,
+    "discordtag": "Mamat#3197",
+    "discordid": "825263329781612584",
+    "forced": true,
+    "discordtagcache": [
+      "Mamat#3197"
+    ],
+    "discordidcache": [
+      "825263329781612584"
+    ]
+  },
+  {
+    "username": "A1Ci",
+    "uuid": "b86c2ca02a6a47538f8ac9336be40b7e",
+    "shiguild": true,
+    "discordtag": "awan#2136",
+    "discordid": "825034508054298694",
+    "forced": false,
+    "discordtagcache": [
+      "Awan#2136",
+      "awan#2136"
+    ],
+    "discordidcache": [
+      "825034508054298694"
+    ]
+  },
+  {
+    "username": "GhostSea",
+    "uuid": "2263c0a4a88c489aa82d0ccfaad39923",
+    "shiguild": true,
+    "discordtag": "mizwar#9789",
+    "discordid": "608655778949234720",
+    "forced": false,
+    "discordtagcache": [
+      "mizwar#9789"
+    ],
+    "discordidcache": [
+      "608655778949234720"
+    ]
+  },
+  {
+    "username": "UUUJTAGR_85",
+    "uuid": "99a4d3fc39e24b72a4c9c55ac15fd436",
+    "shiguild": true,
+    "discordtag": "peepoo#7076",
+    "discordid": "765078738823675924",
+    "forced": false,
+    "discordtagcache": [
+      "peepoo#7076"
+    ],
+    "discordidcache": [
+      "765078738823675924"
+    ]
+  },
+  {
+    "username": "zoulxx",
+    "uuid": "470aa1693e3947ce887763412160b62c",
+    "shiguild": true,
+    "discordtag": "zoru#5490",
+    "discordid": "269660609430290434",
+    "forced": false,
+    "discordtagcache": [
+      "zoru#5490"
+    ],
+    "discordidcache": [
+      "269660609430290434"
+    ]
+  },
+  {
+    "username": "PodDrain",
+    "uuid": "b9558a82e0ea43d4991b097087d36774",
+    "shiguild": true,
+    "discordtag": "PodDrain#4397",
+    "discordid": "498337183980191744",
+    "forced": false,
+    "discordtagcache": [
+      "PodDrain#4397"
+    ],
+    "discordidcache": [
+      "498337183980191744"
+    ]
+  },
+  {
+    "username": "xFvI",
+    "uuid": "585a5efd9cb44dd38908aeb1c2dfcde0",
+    "shiguild": true,
+    "discordtag": "ItsMyYour_I#6969",
+    "discordid": "732396641931493437",
+    "forced": false,
+    "discordtagcache": [
+      "ItsMyYour_I#2978",
+      "ItsMyYour_I#6969"
+    ],
+    "discordidcache": [
+      "732396641931493437"
+    ]
+  },
+  {
+    "username": "AspectofHandles",
+    "uuid": "2b9c9de142b64dcea447f58385fe4b5c",
+    "shiguild": true,
+    "discordtag": "Lydet#2085",
+    "discordid": "853833581675151411",
+    "forced": false,
+    "discordtagcache": [
+      "Lydet#2085"
+    ],
+    "discordidcache": [
+      "853833581675151411"
+    ]
+  },
+  {
+    "username": "Nevn_lim",
+    "uuid": "b1d936fe0dcb482b96a7cc2c1a131cc7",
+    "shiguild": false,
+    "discordtag": "GrimNotFound#5386",
+    "discordid": "736937866697113640",
+    "forced": false,
+    "discordtagcache": [
+      "GrimNotFound#5386"
+    ],
+    "discordidcache": [
+      "736937866697113640"
+    ]
+  },
+  {
+    "username": "RakhaShi",
+    "uuid": "849554f9f30d45d1b504f8d63fa1e359",
+    "shiguild": false,
+    "discordtag": "RakhaShi#3732",
+    "discordid": "567970858593681408",
+    "forced": true,
+    "discordtagcache": [
+      "RakhaShi#3732"
+    ],
+    "discordidcache": [
+      "567970858593681408"
+    ]
+  },
+  {
+    "username": "Tziyy",
+    "uuid": "2056641230514ca7b36d32aba8d9069e",
+    "shiguild": true,
+    "discordtag": "ELL#8113",
+    "discordid": "533583374481227776",
+    "forced": false,
+    "discordtagcache": [
+      "ELL#8113"
+    ],
+    "discordidcache": [
+      "533583374481227776"
+    ]
+  },
+  {
+    "username": "Valseven",
+    "uuid": "7945af49e6ae42289cf24deec13cb360",
+    "shiguild": true,
+    "discordtag": "Valseven#7321",
+    "discordid": "852736914125881404",
+    "forced": false,
+    "discordtagcache": [
+      "Valseven#7321"
+    ],
+    "discordidcache": [
+      "852736914125881404"
+    ]
+  },
+  {
+    "username": "kentot",
+    "uuid": "30fbb0535b27490599d5bbe49f8c6297",
+    "shiguild": true,
+    "discordtag": "Ghaff#2060",
+    "discordid": "576939858019352577",
+    "forced": false,
+    "discordtagcache": [
+      "Ghaff#2060"
+    ],
+    "discordidcache": [
+      "576939858019352577"
+    ]
+  },
+  {
+    "username": "0crq",
+    "uuid": "eaa467ccca6e4c04b4da1d4f3deee571",
+    "shiguild": true,
+    "discordtag": "ocrq#1411",
+    "discordid": "653490060288589835",
+    "forced": false,
+    "discordtagcache": [
+      "ocrq#1411"
+    ],
+    "discordidcache": [
+      "653490060288589835"
+    ]
+  },
+  {
+    "username": "iRega",
+    "uuid": "beaf502e92e34da392019acc3253eadf",
+    "shiguild": true,
+    "discordtag": "Rega#6478",
+    "discordid": "745181752393334855",
+    "forced": false,
+    "discordtagcache": [
+      "Rega#6478"
+    ],
+    "discordidcache": [
+      "745181752393334855"
+    ]
+  },
+  {
+    "username": "NevinGB",
+    "uuid": "1f300f942ef94c478e10262f919c7b5d",
+    "shiguild": true,
+    "discordtag": "Timot#0133",
+    "discordid": "702129349377261598",
+    "forced": false,
+    "discordtagcache": [
+      "Timot#0133"
+    ],
+    "discordidcache": [
+      "702129349377261598"
+    ]
+  },
+  {
+    "username": "Fisdaq",
+    "uuid": "3b10108b5e734533a0c428b825c40710",
+    "shiguild": true,
+    "discordtag": "Fisdaq#4255",
+    "discordid": "534357890203385856",
+    "forced": false,
+    "discordtagcache": [
+      "Fisdaq#4255"
+    ],
+    "discordidcache": [
+      "534357890203385856"
+    ]
+  },
+  {
+    "username": "FinzaLah",
+    "uuid": "9b34d4fb10d646f4a1e56afaf0299a88",
+    "shiguild": true,
+    "discordtag": "NapinLah#0870",
+    "discordid": "737846513903992862",
+    "forced": false,
+    "discordtagcache": [
+      "NapinLah#0870"
+    ],
+    "discordidcache": [
+      "737846513903992862"
+    ]
+  },
+  {
+    "username": "deagrees",
+    "uuid": "20d502b6a9774c85a142c6558d7c4e4e",
+    "shiguild": true,
+    "discordtag": "rrrrrrrrr#9999",
+    "discordid": "716998983955906602",
+    "forced": false,
+    "discordtagcache": [
+      "ray.#3335",
+      "rrrrrrrrr#9999"
+    ],
+    "discordidcache": [
+      "691598611007537243",
+      "716998983955906602"
+    ]
+  },
+  {
+    "username": "Mad_asian",
+    "uuid": "0078debf014a4df3aee3d6300a9ace00",
+    "shiguild": true,
+    "discordtag": "Mad_asian#1421",
+    "discordid": "730665076888961065",
+    "forced": false,
+    "discordtagcache": [
+      "Mad_asian#1421"
+    ],
+    "discordidcache": [
+      "730665076888961065"
+    ]
+  },
+  {
+    "username": "Arymeko",
+    "uuid": "4bc3ada0c4d84f2a81d320c2aac7718f",
+    "shiguild": true,
+    "discordtag": "rymeko#9155",
+    "discordid": "502422112200425473",
+    "forced": false,
+    "discordtagcache": [
+      "rymeko#9155"
+    ],
+    "discordidcache": [
+      "502422112200425473"
+    ]
+  },
+  {
+    "username": "LilQwack",
+    "uuid": "f5636f7a60bf4d26820ce85ed63b66c5",
+    "shiguild": false,
+    "discordtag": "LilQwack#6021",
+    "discordid": "221271832500764674",
+    "forced": false,
+    "discordtagcache": [
+      "LilQwack#6021"
+    ],
+    "discordidcache": [
+      "221271832500764674"
+    ]
+  },
+  {
+    "username": "VenomTamz",
+    "uuid": "ede974169d064bf68f922f8885c33e87",
+    "shiguild": true,
+    "discordtag": "VenomKun#6384",
+    "discordid": "911565284341579806",
+    "forced": false,
+    "discordtagcache": [
+      "VenomKun#6384"
+    ],
+    "discordidcache": [
+      "911565284341579806"
+    ]
+  },
+  {
+    "username": "Grandbust",
+    "uuid": "86eaf1f8a8234016b4f457156ed0fdf1",
+    "shiguild": true,
+    "discordtag": "Grandbust#7614",
+    "discordid": "457828576927023106",
+    "forced": false,
+    "discordtagcache": [
+      "Grandbust#7614"
+    ],
+    "discordidcache": [
+      "457828576927023106"
+    ]
+  },
+  {
+    "username": "Marvinzta",
+    "uuid": "0c98050cff3742919e96405b8573483d",
+    "shiguild": true,
+    "discordtag": "Marvinzta#7773",
+    "discordid": "425616443556757515",
+    "forced": false,
+    "discordtagcache": [
+      "Marvinzta#7773"
+    ],
+    "discordidcache": [
+      "425616443556757515"
+    ]
+  },
+  {
+    "username": "Sanickl",
+    "uuid": "ce42151fce73406d841705121d1ec026",
+    "shiguild": true,
+    "discordtag": "aidan#7832",
+    "discordid": "873500077413527592",
+    "forced": false,
+    "discordtagcache": [
+      "aidan#7832"
+    ],
+    "discordidcache": [
+      "873500077413527592"
+    ]
+  },
+  {
+    "username": "TerlaluJelek",
+    "uuid": "dac0da6813f446bb92da7f9e55e57403",
+    "shiguild": true,
+    "discordtag": "TerlaluCans#4244",
+    "discordid": "563317134520877056",
+    "forced": false,
+    "discordtagcache": [
+      "TerlaluCans#4244"
+    ],
+    "discordidcache": [
+      "563317134520877056"
+    ]
+  },
+  {
+    "username": "sdgbrk_",
+    "uuid": "d5c02b4959534058b7e346eb6a3d374c",
+    "shiguild": true,
+    "discordtag": "BurungDuduk#6319",
+    "discordid": "449097283338764298",
+    "forced": false,
+    "discordtagcache": [
+      "BurungDuduk#6319"
+    ],
+    "discordidcache": [
+      "449097283338764298"
+    ]
+  },
+  {
+    "username": "Minncraft",
+    "uuid": "b051f66455e7411ca44d4086231df4ae",
+    "shiguild": true,
+    "discordtag": "rendy1207#9406",
+    "discordid": "401701187029565441",
+    "forced": false,
+    "discordtagcache": [
+      "rendy1207#9406"
+    ],
+    "discordidcache": [
+      "401701187029565441"
+    ]
+  },
+  {
+    "username": "Vlamiunox",
+    "uuid": "1afa7a67e8c14959a20640e6aa6ea503",
+    "shiguild": true,
+    "discordtag": "niel#5273",
+    "discordid": "309516362634756110",
+    "forced": false,
+    "discordtagcache": [
+      "niel#5273"
+    ],
+    "discordidcache": [
+      "309516362634756110"
+    ]
+  },
+  {
+    "username": "ImNotPole",
+    "uuid": "c681556f38484a2ba82c90aa1afa3e7c",
+    "shiguild": true,
+    "discordtag": "Polerack#1951",
+    "discordid": "731656696069619723",
+    "forced": false,
+    "discordtagcache": [
+      "Polerack#1951"
+    ],
+    "discordidcache": [
+      "731656696069619723"
+    ]
+  },
+  {
+    "username": "TundraHooves",
+    "uuid": "f437c667f11e48f3b4a6b1761617358e",
+    "shiguild": true,
+    "discordtag": "TundraHooves#2541",
+    "discordid": "228142802062671872",
+    "forced": false,
+    "discordtagcache": [
+      "TundraHooves#2541"
+    ],
+    "discordidcache": [
+      "228142802062671872"
+    ]
+  },
+  {
+    "username": "ItzOrdinary_",
+    "uuid": "a71c13822d9b432f8988ee788a03ea5f",
+    "shiguild": true,
+    "discordtag": "ItzOrdinary_#6821",
+    "discordid": "708556418193555499",
+    "forced": false,
+    "discordtagcache": [
+      "ItzOrdinary_#6821"
+    ],
+    "discordidcache": [
+      "708556418193555499"
+    ]
+  },
+  {
+    "username": "Dominator1537",
+    "uuid": "0aba2a78e9eb400c8db18f639ef39edd",
+    "shiguild": true,
+    "discordtag": "Dominator1537#7154",
+    "discordid": "265260497761206282",
+    "forced": false,
+    "discordtagcache": [
+      "Dominator1537#7154"
+    ],
+    "discordidcache": [
+      "265260497761206282"
+    ]
+  },
+  {
+    "username": "Bpk_Yanto",
+    "uuid": "b489a13a3c7a43769e56bc301c30820f",
+    "shiguild": true,
+    "discordtag": "Gremschy#4020",
+    "discordid": "716634730916741200",
+    "forced": false,
+    "discordtagcache": [
+      "Gremschy#4020"
+    ],
+    "discordidcache": [
+      "716634730916741200"
+    ]
+  },
+  {
+    "username": "AgusPedhot_",
+    "uuid": "aec68d06e66447d1a746f6161b211fea",
+    "shiguild": true,
+    "discordtag": "AgusPedhot#5520",
+    "discordid": "728038232813469776",
+    "forced": false,
+    "discordtagcache": [
+      "AgusPedhot#5520"
+    ],
+    "discordidcache": [
+      "728038232813469776"
+    ]
+  },
+  {
+    "username": "xCrumblyDark",
+    "uuid": "e86b410d00bd493da52cf436eb0812f2",
+    "shiguild": true,
+    "discordtag": "SiPalingBaperan#1313",
+    "discordid": "921251562750349332",
+    "forced": false,
+    "discordtagcache": [
+      "SiPalingBaperan#1313"
+    ],
+    "discordidcache": [
+      "921251562750349332"
+    ]
+  },
+  {
+    "username": "Nezarfqq",
+    "uuid": "39838eace07140cb929985d9dae3bc4f",
+    "shiguild": true,
+    "discordtag": "Nezzy#4120",
+    "discordid": "753208580504813568",
+    "forced": false,
+    "discordtagcache": [
+      "Nezzy#4120"
+    ],
+    "discordidcache": [
+      "753208580504813568"
+    ]
+  },
+  {
+    "username": "Budiono",
+    "uuid": "0211574853c24a43afd75412d8e01f8a",
+    "shiguild": true,
+    "discordtag": "Budiono#8006",
+    "discordid": "520582492021850132",
+    "forced": false,
+    "discordtagcache": [
+      "Budiono#8006"
+    ],
+    "discordidcache": [
+      "520582492021850132"
+    ]
+  },
+  {
+    "username": "Xepi",
+    "uuid": "73159ed89137495ea2014a04041cca24",
+    "shiguild": true,
+    "discordtag": "Xepi#8140",
+    "discordid": "433270301694885908",
+    "forced": false,
+    "discordtagcache": [
+      "Xepi#8140"
+    ],
+    "discordidcache": [
+      "433270301694885908"
+    ]
+  },
+  {
+    "username": "SekuitWooot",
+    "uuid": "614f3f04a7f44df294adb34f33b701ed",
+    "shiguild": true,
+    "discordtag": "Arif A.#0147",
+    "discordid": "360234617044729857",
+    "forced": false,
+    "discordtagcache": [
+      "Arif A.#0147"
+    ],
+    "discordidcache": [
+      "360234617044729857"
+    ]
+  },
+  {
+    "username": "Theowastake",
+    "uuid": "c16fa5ba424a4fb3a08433979e1ba9d2",
+    "shiguild": true,
+    "discordtag": "Theowastake#9399",
+    "discordid": "799865593054101555",
+    "forced": false,
+    "discordtagcache": [
+      "Theowastake#9399"
+    ],
+    "discordidcache": [
+      "799865593054101555"
+    ]
+  },
+  {
+    "username": "waitno01",
+    "uuid": "06f69a532d3c4d4b93ec9272d33c42de",
+    "shiguild": true,
+    "discordtag": "waitno#0900",
+    "discordid": "331052225180729344",
+    "forced": false,
+    "discordtagcache": [
+      "waitno#0900"
+    ],
+    "discordidcache": [
+      "331052225180729344"
+    ]
+  },
+  {
+    "username": "oxird",
+    "uuid": "88a0e3c861b14646acbbd53040347ef8",
+    "shiguild": false,
+    "discordtag": "Drixo#0057",
+    "discordid": "848345173591326781",
+    "forced": false,
+    "discordtagcache": [
+      "Drixo#0057"
+    ],
+    "discordidcache": [
+      "848345173591326781"
+    ]
+  },
+  {
+    "username": "gapeduli",
+    "uuid": "e626c0439d614c84b0e4c23e69daef89",
+    "shiguild": true,
+    "discordtag": "ner.#2048",
+    "discordid": "404611623697776651",
+    "forced": false,
+    "discordtagcache": [
+      "ner.#2048"
+    ],
+    "discordidcache": [
+      "404611623697776651"
+    ]
+  },
+  {
+    "username": "Akkilap",
+    "uuid": "e31cb3fd3cba499c9dd808b83e58143f",
+    "shiguild": true,
+    "discordtag": "Akki#4927",
+    "discordid": "798711578173767712",
+    "forced": false,
+    "discordtagcache": [
+      "Akki#4927"
+    ],
+    "discordidcache": [
+      "798711578173767712"
+    ]
+  },
+  {
+    "username": "pngShadow",
+    "uuid": "c3d2a9e5a13247c49e97c29148670892",
+    "shiguild": false,
+    "discordtag": "Rafaelkamv#0193",
+    "discordid": "239970300853354498",
+    "forced": false,
+    "discordtagcache": [
+      "Rafaelkamv#0193"
+    ],
+    "discordidcache": [
+      "239970300853354498"
+    ]
+  },
+  {
+    "username": "KimoXD_",
+    "uuid": "4c354df9d298446a83fb3e4057fd55dd",
+    "shiguild": true,
+    "discordtag": "PengenJadiGanteng#9075",
+    "discordid": "545550784805208074",
+    "forced": false,
+    "discordtagcache": [
+      "PengenJadiGanteng#9075"
+    ],
+    "discordidcache": [
+      "545550784805208074"
+    ]
+  },
+  {
+    "username": "NovaReXsYT",
+    "uuid": "fb3a9a60d841440dbf29cdbb5d493883",
+    "shiguild": true,
+    "discordtag": "NovaReXs#3314",
+    "discordid": "273351260273508352",
+    "forced": false,
+    "discordtagcache": [
+      "NovaReXs#3314"
+    ],
+    "discordidcache": [
+      "273351260273508352"
+    ]
+  },
+  {
+    "username": "MineAnimator",
+    "uuid": "97490bd63b354257a43572c32bc662d6",
+    "shiguild": true,
+    "discordtag": "THEMONSEA#8043",
+    "discordid": "352758306357641219",
+    "forced": false,
+    "discordtagcache": [
+      "THEMONSEA#8043"
+    ],
+    "discordidcache": [
+      "352758306357641219"
+    ]
+  },
+  {
+    "username": "_xAssassin",
+    "uuid": "87f1afcd6a82433dbabf5649405573f6",
+    "shiguild": true,
+    "discordtag": "iKan#5571",
+    "discordid": "708556418193555499",
+    "forced": false,
+    "discordtagcache": [
+      "iKan#5571"
+    ],
+    "discordidcache": [
+      "708556418193555499"
+    ]
+  },
+  {
+    "username": "NotMoy",
+    "uuid": "8a31198367b946c78d8d1b34b8dee42a",
+    "shiguild": false,
+    "discordtag": "Moy#6554",
+    "discordid": "374913353983983617",
+    "forced": false,
+    "discordtagcache": [
+      "Moy#6554"
+    ],
+    "discordidcache": [
+      "374913353983983617"
+    ]
+  },
+  {
+    "username": "Dairor",
+    "uuid": "8ef7a09a893b4f4ebd7d8c598d4c02c3",
+    "shiguild": true,
+    "discordtag": "Dairor#5600",
+    "discordid": "583097043736723460",
+    "forced": false,
+    "discordtagcache": [
+      "Dairor#5600"
+    ],
+    "discordidcache": [
+      "583097043736723460"
+    ]
+  },
+  {
+    "username": "zPolerack",
+    "uuid": "f51865755d0444d58fb876c661152043",
+    "shiguild": true,
+    "discordtag": "Polerack#1951",
+    "discordid": "731656696069619723",
+    "forced": false,
+    "discordtagcache": [
+      "Polerack#1951"
+    ],
+    "discordidcache": [
+      "731656696069619723"
+    ]
+  },
+  {
+    "username": "_oBruh",
+    "uuid": "f560571d2838468e9ea61180039bffc4",
+    "shiguild": true,
+    "discordtag": "BRUH_9812#4678",
+    "discordid": "772709931811209227",
+    "forced": false,
+    "discordtagcache": [
+      "BRUH_9812#4678"
+    ],
+    "discordidcache": [
+      "772709931811209227"
+    ]
+  },
+  {
+    "username": "Mornov",
+    "uuid": "1380195114874ea4878bc58ff4c37d3c",
+    "shiguild": true,
+    "discordtag": "Lunatic#1100",
+    "discordid": "303384064243793920",
+    "forced": true,
+    "discordtagcache": [
+      "lunat!c.#1508",
+      "Lunatic#1100"
+    ],
+    "discordidcache": [
+      "303384064243793920"
+    ]
+  },
+  {
+    "username": "Keriss",
+    "uuid": "805e3743fb7249929f6bd95c42986757",
+    "shiguild": true,
+    "discordtag": "krispranata#0638",
+    "discordid": "265662763479728128",
+    "forced": false,
+    "discordtagcache": [
+      "krispranata#0638"
+    ],
+    "discordidcache": [
+      "265662763479728128"
+    ]
+  },
+  {
+    "username": "sendiri",
+    "uuid": "37656ee7145440168190aec9502e8b51",
+    "shiguild": true,
+    "discordtag": "Sendiri#9468",
+    "discordid": "795987973417861131",
+    "forced": false,
+    "discordtagcache": [
+      "Sendiri#9468"
+    ],
+    "discordidcache": [
+      "795987973417861131"
+    ]
+  },
+  {
+    "username": "PIKIMEN",
+    "uuid": "e0c953f01147418889c568710dd88f0a",
+    "shiguild": true,
+    "discordtag": "pikimeN_#9185",
+    "discordid": "670148732163063857",
+    "forced": false,
+    "discordtagcache": [
+      "pikimeN_#9185"
+    ],
+    "discordidcache": [
+      "670148732163063857"
+    ]
+  },
+  {
+    "username": "AvisDariIndo",
+    "uuid": "baeb4bd57d5243aaadbb8544c9fc93b8",
+    "shiguild": false,
+    "discordtag": "Avisssss#0439",
+    "discordid": "949191883203182662",
+    "forced": false,
+    "discordtagcache": [
+      "Avisssss#0439"
+    ],
+    "discordidcache": [
+      "949191883203182662"
+    ]
+  }
+]

@@ -1,9 +1,9 @@
 const botStatus = require("../modules/botStatus")
 const hypixelStatus = require("../modules/hypixelStatus")
-//const selfbot = require("../modules/selfbot")
 const eventTimer = require("../modules/hypixelEventTimer")
 const bzahAPIHandler = require("../modules/bzahAPIHandler")
 const skyblockCalendar = require("../modules/skyblockCalendar")
+const lbScheduler = require('../modules/Leaderboard/LBScheduler')
 
 module.exports = {
 	name: 'ready',
@@ -18,13 +18,13 @@ module.exports = {
     ]
     let i = 0
     setInterval(() => {
-      client.user.setActivity(`${activities[i++ % activities.length]}`, {type: "WATCHING"})
+      // client.user.setActivity(`${activities[i++ % activities.length]}`, {type: "WATCHING"})
     }, 15 * 1000)
     botStatus.start(client)
-    hypixelStatus.start(client)
-    //selfbot.start()
-    eventTimer.start()
+    //hypixelStatus.start(client)
+    //eventTimer.start()
     bzahAPIHandler.start()
-    skyblockCalendar.start(client)
+    //skyblockCalendar.start(client)
+    //lbScheduler.start(client)
 	},
 };

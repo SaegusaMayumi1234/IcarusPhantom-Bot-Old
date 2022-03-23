@@ -5,6 +5,7 @@ module.exports = {
   name: 'check',
   description: 'checking someone status for guild apply',
   async execute(message, args, client) {
+    return
     let apikey = apiKeyHandler.get()
     let username = args[0]
     let uuid = avgskills = slayers = catacombs = weight = inGuild = scammer = online = ready = "Loading..."
@@ -51,7 +52,7 @@ module.exports = {
       })
       return
     }
-    let senither = await fetchData("https://hypixel-api.senither.com/v1/profiles/" + uuid + "/we?key=" + apikey)
+    let senither = await fetchData("https://hypixel-api.senither.com/v1/profiles/" + uuid + "/latest?key=" + apikey)
     if (senither.status == 200) {
       avgskills = senither.data.data.skills.average_skills.toFixed(2)
       slayers = senither.data.data.slayers.total_experience

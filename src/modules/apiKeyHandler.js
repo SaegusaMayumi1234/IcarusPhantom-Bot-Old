@@ -7,6 +7,7 @@ db.get("apikey").then(value => {
     db.set("apikey", apikey)
   } else {
     apikey = value
+    console.log("Success get database from apikey")
   }
 })
 

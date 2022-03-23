@@ -42,11 +42,12 @@ function merge(oldData, newData, client) {
     let date = `**${desc.shift()}**`
     let msg = `${date}\n${desc.join("\n")}`
     
-    client.channels.cache.get('828075952285679658').send({
+    client.channels.cache.get('875890517634859008').send({
+      content: "<@&876106518443991081>",
       embed: {
         title: data2.title,
         description: msg,
-        timestamp: new Date(),
+        timestamp: data2.isoDate,
         color: 'FF4D00',
         url: data2.link,
         footer: {

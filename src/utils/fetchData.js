@@ -16,7 +16,7 @@ async function fetchData(url) {
         method: err.response.config.method,
         data: err.response.data
       }
-      console.log(errorlog)
+      //console.log(errorlog)
       return err.response
     }
     const errnonresponse = {
@@ -24,7 +24,7 @@ async function fetchData(url) {
       url: err.config.url,
       method: err.config.method
     }
-    console.log(errnonresponse)
+    //console.log(errnonresponse)
     return errnonresponse
   })
 }

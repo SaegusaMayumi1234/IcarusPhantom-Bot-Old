@@ -1,4 +1,5 @@
 const apiKeyHandler = require("../modules/apiKeyHandler")
+const detectBots = require("../modules/detectHackedAccount")
 
 module.exports = {
 	name: 'message',
@@ -12,9 +13,13 @@ module.exports = {
     }
 		if (message.author.bot) return;
     if (message.channel.type == 'dm') return;
-    if (!message.content.startsWith(client.prefix)) return;
+    if (message.channel.id === "877364264195751966") {
+      detectBots.detect(message, client)
+    }
+    let commandMessage = message.content.toLowerCase()
+    if (!commandMessage.startsWith(client.prefix)) return;
 
-    const args = message.content.slice(client.prefix.length).trim().split(/ +/);
+    const args = commandMessage.slice(client.prefix.length).trim().split(/ +/);
     const commandName = args.shift().toLowerCase();
 
     if (!client.commands.has(commandName)) return;

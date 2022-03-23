@@ -6,6 +6,7 @@ module.exports = {
   name: 'forceverify',
   description: 'verifying your minecraft and you discord account',
   async execute(message, args, client) {
+    return
     if (!message.member.roles.cache.some(role => role.id === "814789859016966184")) return;
     let apikey = apiKeyHandler.get()
     let username = args[0]
